@@ -1,1 +1,1 @@
-# Mind-Palace
+# Mind Palace
