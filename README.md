@@ -4,6 +4,7 @@
 # Mind Palace
 
 A client/server application which showcases use of CI/CD tools, Python packages and software design patterns.
+
 See [full documentation](https://mind-palace.readthedocs.io/).
 
 ## Installation
