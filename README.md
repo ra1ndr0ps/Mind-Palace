@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/ra1ndr0ps/Mind-Palace.svg?branch=master)](https://travis-ci.org/ra1ndr0ps/Mind-Palace)
-![coverage](https://codecov.io/gh/ra1ndr0ps/Mind-Palace/branch/master/graph/Mind-Palace.svg)
 
 # Mind Palace
 

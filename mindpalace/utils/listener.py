@@ -11,7 +11,7 @@ class Listener:
         self.listener = None
 
     def __repr__(self):
-        return f'Listener(port={self.port}, host={self.host}, backlog={self.backlog}, reuseaddr={self.reuseaddr})'
+        return f'Listener(port={self.port!r}, host={self.host!r}, backlog={self.backlog!r}, reuseaddr={self.reuseaddr!r})'
 
     def __enter__(self):
         self.start()
