@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ra1ndr0ps/Mind-Palace.svg?branch=master)](https://travis-ci.org/ra1ndr0ps/Mind-Palace)
+
 # Mind Palace
 
 A client/server application which showcases use of CI/CD tools and software design patterns.
